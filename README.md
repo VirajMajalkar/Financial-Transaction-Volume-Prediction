@@ -2,5 +2,4 @@ Objective of the project is to predict NEFT, RTGS, Debit / Credit Card transacti
 Project work involves understanding Time Series data and multiple modules like ARIMA and AR. 
 
 1. Data was scraped from RBI website using BeautifulSoup
-2. Three different columns 'RTGS Transactions', 'NEFT Transactions' and 'Debit Card Transactions' have been clubbed into "Total Number of Transactions".
-3. 
+2. Three different columns 'RTGS Transactions', 'NEFT Transactions','Debit Card Transactions' and 'Credit Card Transactions' have been clubbed into "Total Transactions".
